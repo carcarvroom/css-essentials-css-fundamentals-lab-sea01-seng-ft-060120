@@ -9,8 +9,8 @@ h1 {
 }
 
 img {
-  display
-  argin-left: auto;
+  display: block;
+  margin-left: auto;
   margin-right: auto
 }
 
