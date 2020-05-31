@@ -15,5 +15,6 @@ img {
 
 a:link {
   text-align: center;
-  background-color: #808080
+  background-color: #808080;
+  padding: 10px;
 }
